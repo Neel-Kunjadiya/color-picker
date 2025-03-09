@@ -1,4 +1,4 @@
-# Playtoon Avatar Color Picker
+# Playtoon Avatar Color Picker (Take Home Assignment)
 
 ## Overview
 
